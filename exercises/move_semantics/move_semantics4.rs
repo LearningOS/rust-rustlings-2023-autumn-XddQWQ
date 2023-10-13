@@ -8,6 +8,7 @@
 // for a hint.
 
 
+
 fn main() {
     
 
@@ -22,7 +23,7 @@ fn main() {
 
 // `fill_vec()` no longer takes `vec: Vec<i32>` as argument
 fn fill_vec( )-> Vec<i32> {
-    let mut vec = Vec::new();;
+    let mut vec = Vec::new();
 
     vec.push(22);
     vec.push(44);
